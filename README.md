@@ -1,18 +1,13 @@
 # Hi! I'm Dwyn Anthony Delos Reyes  
 
-   
-*BS Computer Science Undergraduate*
+BS Computer Science Undergraduate
 
-  
 ____________________________________________________  
 
-  
 Check out my website:
 https://delosreyes-portfolio.netlify.app/
 
-  
 ____________________________________________________  
-
   
 ### You may also contact me through:
 - Gmail: dwyndelosreyes@gmail.com
