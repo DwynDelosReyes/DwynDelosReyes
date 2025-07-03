@@ -11,5 +11,5 @@ ____________________________________________________
 ### You may also contact me through:
 - Gmail: dwyndelosreyes@gmail.com
 - LinkedIn - [Dwyn Anthony Delos Reyes](https://www.linkedin.com/in/dwyn-delos-reyes)
-- Facebook - [Dwyn Delos Reyes](https://www.facebook.com/3671Hillcrest.Ave/)
+- Facebook - [Dwyn Delos Reyes](https://www.facebook.com/dwyn.delosreyes/)
 - Discord - [dwyndlr](https://discord.com/channels/876801021530210334)
