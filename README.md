@@ -12,7 +12,7 @@ https://delosreyes-portfolio.netlify.app/
 <br><br>
 
 ***
-
+<br>
 ### You may also contact me through:
 - Gmail: dwyndelosreyes@gmail.com
 - LinkedIn - [Dwyn Anthony Delos Reyes](https://www.linkedin.com/in/dwyn-delos-reyes)
