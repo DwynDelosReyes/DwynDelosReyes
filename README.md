@@ -1,5 +1,5 @@
 # Hi! I'm Dwyn Anthony Delos Reyes
-#____________________________________________________
+____________________________________________________
 Check out my website:
 https://delosreyes-portfolio.netlify.app/
 
