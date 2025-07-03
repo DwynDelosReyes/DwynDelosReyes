@@ -7,8 +7,9 @@ Student of De La Salle University - Dasmariñas
 ***
 
 <br>
-Check out my website:
-https://delosreyes-portfolio.netlify.app/
+Check out my website:<br>
+
+### https://delosreyes-portfolio.netlify.app/
 <br><br>
 
 ***
