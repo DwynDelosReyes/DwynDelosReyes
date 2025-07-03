@@ -3,12 +3,12 @@
 BS Computer Science Undergraduate<br>
 Student of De La Salle University - Dasmariñas
 <br>
-____________________________________________________  
+***
 <br>
 Check out my website:
 https://delosreyes-portfolio.netlify.app/
 <br>
-____________________________________________________  
+***
 <br>
 ### You may also contact me through:
 - Gmail: dwyndelosreyes@gmail.com
