@@ -1,7 +1,7 @@
 # Hi! I'm Dwyn Anthony Delos Reyes  
 
 BS Computer Science Undergraduate
-
+Student of De La Salle University - Dasmariñas
 ____________________________________________________  
 
 Check out my website:
